@@ -3,7 +3,7 @@
 ## Analyse d'un projet créatif
 
 ### Le projet créatif
-[![watch](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://youtu.be/VTgADEXQAGs)
+[![watch](https://www.youtube.com/watch?v=0D3_I_g1B2c&t=103s)
     
     
 
