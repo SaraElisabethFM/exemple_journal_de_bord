@@ -3,9 +3,9 @@
 ## Analyse d'un projet créatif, La Ruche qui Dit Oui ! Qu'est-ce que c'est ?
 
 ### Le projet créatif
-[![watch](https://www.youtube.com/watch?v=0D3_I_g1B2c)
+[![watch](https://www.youtube.com/watch?v=0D3_I_g1B2c)(https://youtu.be/0D3_I_g1B2c)
     
-    
+[![watch](http://img.youtube.com/vi/VTgADEXQAGs/0.jpg)](https://youtu.be/VTgADEXQAGs)    
 
 ### L'analyse
 
