@@ -2,10 +2,10 @@
 ## Insérer une image
 Insérer une image ici: 
 
+
 ![soleil](Images/Couchersoleil.jpeg)
 
 **Coucher de soleil** à la plage en *vacances*
-
 
 
 ## Liens vers des nouvelles de l'industrie

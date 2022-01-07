@@ -1,5 +1,6 @@
 # Cours 7
 
+
 Reflexion sur les critères pour un bon projet
 
 Comment peit-on évaluer si notre projet photoshop, illustrator vidéeo ou sonore est bien?
@@ -25,5 +26,4 @@ Typographie
 Vison en noir et blanc
 
 Durabilité à long terme
-
 

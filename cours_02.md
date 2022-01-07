@@ -24,6 +24,7 @@ Entreprises spécialisées dans les services informatiques
 Gouvernement fédéral   
 Gouvernement provincial   
 
+
 ### Emploi 2 - Directeur artistique
 
 Personne qui planifie et dirige la partie artistique des productions dans les domaines du cinéma, du théâtre, de la musique, de la radio, de la télévision, du multimédia et de la publicité en vue d'assurer le caractère artistique et réaliste de la période ou des lieux à représenter.
