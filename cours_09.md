@@ -13,11 +13,11 @@ Premièrement, réfléchir aux aspects suivants:
 * Quelles sont les forces de ce projet? 
 > Mélange entre vidéo et motion design. La vidéo se tranforme en illustration losrqu'il y a un message à lire. Illustrations simplifiées
 * Quelles sont les faiblesses? 
-> Quand ça devient en illustration parfois trop de couleurs
+> Quand ça devient en illustration parfois trop de couleurs. 
 * Quel est le processus de création de ce projet? 
-> Un vidéo pour montrer toutes les étapes de la production à l'acaht local chez les producteurs locaux
+> Un vidéo pour montrer toutes les étapes de la production chez les producteurs locaux à l'acaht local chez les responsables de ruches
 * Qui participe à la création de ce projet?
-> Les producteurs locaux, la communauté, les responsables de ruches
+> La rûche qui dit oui, les producteurs locaux, la communauté, les responsables de ruches
 * Quel est le message derrière ce projet ou son objectif? 
 > Mettre en valeur les chiffres clés et les valeurs de la structure.
 
