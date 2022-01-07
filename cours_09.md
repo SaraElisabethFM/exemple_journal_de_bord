@@ -1,6 +1,6 @@
 # Cours 09
 
-## Analyse d'un projet créatif
+## Analyse d'un projet créatif, La Ruche qui Dit Oui ! Qu'est-ce que c'est ?
 
 ### Le projet créatif
 [![watch](https://www.youtube.com/watch?v=0D3_I_g1B2c)
@@ -10,11 +10,19 @@
 ### L'analyse
 
 Premièrement, réfléchir aux aspects suivants: 
-* Quelles sont les forces de ce projet? Mélange entre vidéo et motion design
+* Quelles sont les forces de ce projet? 
+> Mélange entre vidéo et motion design. La vidéo se tranforme en illustration losrqu'il y a un message à lire. Illustrations simplifiées
 * Quelles sont les faiblesses? 
+> Quand ça devient en illustration parfois trop de couleurs
 * Quel est le processus de création de ce projet? 
-* Qui participe à la création de ce projet? 
+> Un vidéo pour montrer toutes les étapes de la production à l'acaht local chez les producteurs locaux
+* Qui participe à la création de ce projet?
+> Les producteurs locaux, la communauté, les responsables de ruches
 * Quel est le message derrière ce projet ou son objectif? 
+> Mettre en valeur les chiffres clés et les valeurs de la structure.
+
+Cet exemple motion design conçu pour La Ruche qui Dit Oui ! surprend par son style très original. L’entreprise qui se bat pour le bien manger met en scène producteurs, familles, responsables de ruches… À partir de véritables vidéos, toutes les parties prenantes de la chaîne sont représentées sous forme de peintures vivantes pour mettre en exergue les chiffres clés et les valeurs de la structure. Une belle idée à suivre !
+
 
 Écrire une analyse sur le projet. Amenez votre sujet grâce à une brève présentation de l’œuvre. Qui en sont les artistes?  Où est-elle présentée? 
 Posez votre sujet en nous mentionnant quel aspect de l’œuvre vous allez traiter. Divisez ensuite ce sujet en deux ou trois sous-sujets. 
